@@ -1,0 +1,14 @@
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.exe
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.deps.json
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.runtimeconfig.json
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.runtimeconfig.dev.json
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.dll
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\bin\Debug\netcoreapp3.1\FindChar.pdb
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.csproj.AssemblyReference.cache
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.AssemblyInfoInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.AssemblyInfo.cs
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.dll
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.pdb
+C:\Users\Abdulla Rahimli\Desktop\09.02.2022\FindChar\obj\Debug\netcoreapp3.1\FindChar.genruntimeconfig.cache
